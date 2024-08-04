@@ -1,0 +1,136 @@
+[
+  {
+    "id": 1,
+    "nama": "Pegadaian",
+    "detail": "Website Pegadaian",
+    "kategori": "Website",
+    "main_image": "/json/img/pegadaian-1 (1).png",
+    "sub_images": [
+      "/json/img/pegadaian-1 (2).png",
+      "/json/img/pegadaian-1 (4).png",
+      "/json/img/Screenshot 2024-07-23 113934.png",
+      "/json/img/img3.png"
+    ],
+    "description": "Web Pegadaian adalah situs resmi dari PT Pegadaian (Persero), perusahaan yang bergerak dalam bidang jasa keuangan khususnya pembiayaan, emas, dan aneka jasa. Situs ini menyediakan berbagai informasi dan layanan terkait produk-produk Pegadaian, termasuk layanan gadai, tabungan emas, pembiayaan usaha, dan lainnya. <br>Saya ikut berkontribusi sebagai Backend dan Frontend untuk membuat dan mengembangkan website ini. Masa pembuatan adalah 1 bulan. <br><br> Website ini kami buat dengan Tech Stack berikut : <br> Bahasa Pemrograman : PHP dan JS <br> Framework : Laravel, Bootstrap <br> Database : Mysql <br> Lainnya : HTML, CSS dan yang lainnya"
+  },
+  {
+    "id": 9,
+    "nama": "Slicing Adidas",
+    "detail": "Website Slicing Adidas",
+    "kategori": "Website",
+    "main_image": "/json/img/website12-main.png",
+    "sub_images": [
+      "/json/img/website12-sub1.png",
+      "/json/img/website12-sub2.png",
+      "/json/img/website12-sub3.png",
+      "/json/img/website12-sub4.png"
+    ],
+    "description": "Slicing Adidas adalah Pembuatan website dari website yang sudah ada, yaitu adidas. Pada website ini saya membuat berdasarkan desain website yang sudah ada. Saya berkontribusi sebagai Frontend dan Backend di website saat membuat dan pengembangan website ini. <br> Bahasa Pemrograman : JS <br> Framework : Bootstrap <br> Database : - <br> Lainnya : HTML, CSS, Photoshop dan yang lainnya <br> Halaman : Beranda, Keranjang, Detail"
+  },
+  {
+    "id": 10,
+    "nama": "Slicing KFC",
+    "detail": "Website Slicing KFC",
+    "kategori": "Website",
+    "main_image": "/json/img/website11-main.png",
+    "sub_images": [
+      "/json/img/website11-sub1.png",
+      "/json/img/website11-sub2.png",
+      "/json/img/website11-sub3.png",
+      "/json/img/website11-sub4.png"
+    ],
+    "description": "Slicing KFC adalah Pembuatan website dari website yang sudah ada, yaitu KFC. Pada website ini saya membuat berdasarkan desain website yang sudah ada. Saya berkontribusi sebagai Frontend website saat membuat dan pengembangan website ini. <br> Bahasa Pemrograman : JS <br> Framework : Bootstrap <br> Database : - <br> Lainnya : HTML, CSS, Photoshop dan yang lainnya <br> Halaman : Beranda"
+  },
+  {
+    "id": 21,
+    "nama": "Tukuo",
+    "detail": "Website Tukuo",
+    "kategori": "Website",
+    "main_image": "/json/img/website14-main.png",
+    "sub_images": [
+      "/json/img/website14-sub1.png",
+      "/json/img/website14-sub2.png",
+      "/json/img/website14-sub3.png",
+      "/json/img/website14-sub4.png"
+    ],
+    "description": "Tukuo adalah website E-Commerce sederhana. Website ini mempunyai case tentang penjualan elketronik seperti mobil, motor dan handphone. Saya berkontribusi sebagai Frontend dan Backend di website saat membuat dan pengembangan website ini. <br> Bahasa Pemrograman : JS dan PHP <br> Framework : Bootstrap <br> Database : Mysql <br> Lainnya : HTML, CSS, Photoshop dan yang lainnya <br> Halaman : Beranda, Keranjang, Detail"
+  },
+  {
+    "id": 3,
+    "nama": "Health Care",
+    "detail": "Website Health Care",
+    "kategori": "Website",
+    "main_image": "/json/img/website3-main.png",
+    "sub_images": [
+      "/json/img/website3-sub1.png",
+      "/json/img/website3-sub2.png",
+      "/json/img/website3-sub3.png",
+      "/json/img/website3-sub4.png"
+    ],
+    "description": "Health Care adalah Website kesehatan dengan beberapa fitur kesehatan seperti Sistem Pakar, Cek Ketersediaan Kamar Rumah Sakit dan Blog Kesehatan. Website ini kita ikutkan kompetisi web development dan berhasil meraih juara 2 (Penjelasan lebih jelas di My Experience). Saya berkontribusi sebagai Backend dan Frontend di website saat membuat dan pengembangan website ini. <br> Bahasa Pemrograman : PHP dan JS <br> Framework : Laravel, Bootstrap <br> Database : Mysql <br> Lainnya : HTML, CSS, PHP Mailer, Figma, Photoshop dan yang lainnya <br> Halaman : Home, Sistem Pakar, Blog, Rumah Sakit, CMS dan yang lainnya"
+  },
+  {
+    "id": 5,
+    "nama": "Adminin",
+    "detail": "Website Adminin",
+    "kategori": "Website",
+    "main_image": "/json/img/adminin-1.png",
+    "sub_images": [
+      "/json/img/adminin-2 (1).png",
+      "/json/img/adminin-2 (2).png",
+      "/json/img/adminin-2 (3).png",
+      "/json/img/adminin-4.png"
+    ],
+    "description": "Adminin merupakan sebuah website dan aplikasi untuk mengontrol jalannya bisnis kamu, mulai dari product, order, invoice sampai dengan pendapatan. Semua itu dapat di pantau dan dioperasikan dengan lebih efektif serta efisien oleh Adminin. Saya berkontribusi sebagai Backend dan Frontend di website saat membuat dan pengembangan website ini. <br> Bahasa Pemrograman :  LARAVEL, PHP, dan JS <br> Framework : - <br> Database : Mysql <br> Lainnya : HTML, CSS dan yang lainnya</a>"
+  },
+  {
+    "id": 6,
+    "nama": "Annprint-E-commerce",
+    "detail": "Website Annprint-E-commerce",
+    "kategori": "Website",
+    "main_image": "/json/img/baju (3).png",
+    "sub_images": [
+      "/json/img/baju (4).png",
+      "/json/img/baju (2).png",
+      "/json/img/baju (1).png",
+      "/json/img/baju (5).png"
+    ],
+    "description": "Annprint E-Commerce adalah website untuk berbelanja pakaian, barang DLL. Saya berkontribusi sebagai Backend dan Frontend di website saat membuat dan pengembangan website ini. <br> Bahasa Pemrograman :  LARAVEL PHP dan JS <br> Framework : Bootstrap <br> Database : Mysql <br> Lainnya : HTML, CSS."
+  },
+
+  {
+    "id": 13,
+    "nama": "PT Robust Creative Media",
+    "kategori": "Pengalaman",
+    "main_image": "/json/img/sertifikat pkl.jpg",
+    "description": "Tepat pada tanggal 13 Juli - 22 Desember 2023 saya telah menyeselaikan Praktik kerja lapang yang diselangarakan di PT.Robust Creative Media, Sebagai posisi menjadi Web Developer."
+  },
+  {
+    "id": 14,
+    "nama": "Wikrama Young Preneur School Program",
+    "kategori": "Pengalaman",
+    "main_image": "/json/img/sertifikat pkk.jpg",
+    "description": "Tepat pada tanggal 4 May 2024 saya mengikuti program kewirausahaan yang di adakan di sekolah saya, Dengan posisi saya sebagai Production Manager."
+  },
+  {
+    "id": 15,
+    "nama": "LearnKey HTML and CSS",
+    "kategori": "Pengalaman",
+    "main_image": "/json/img/Learnkey.png",
+    "description": "Tepat pada tanggal 22 May 2024 saya mengikuti pembelajaran HTML dan CSS."
+  },
+  {
+    "id": 16,
+    "nama": "IT Specialist HTML AND CSS at Certiport",
+    "kategori": "Pengalaman",
+    "main_image": "/json/img/certiport.png",
+    "description": "Tepat pada tanggal 24 January 2024 saya mengikuti kursus HTML dan CSS dari Certiport."
+  },
+  {
+    "id": 17,
+    "nama": "Junior Web Developer Vocational School Graduate Academy",
+    "kategori": "Pengalaman",
+    "main_image": "/json/img/sertifikat.vsga.png",
+    "description": "Tepat pada tanggal 19-23 Juni 2024 saya mengikuti kursus Junior Web Developer Vocational School Graduate Academy."
+  }
+]
